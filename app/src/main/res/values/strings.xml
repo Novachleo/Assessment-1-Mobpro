@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="add_task">Add Task</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="save">Save Task</string>
+    <string name="empty_task">No tasks yet</string>
+    <string name="detail_task">Detail Task</string>
+    <string name="delete">Delete Task</string>
+    <string name="share">Share Task</string>
+    <string name="about">About</string>
+</resources>

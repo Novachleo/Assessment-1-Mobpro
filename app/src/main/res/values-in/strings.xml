@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Daftar Tugas</string>
+    <string name="add_task">Tambah Tugas</string>
+    <string name="title">Judul</string>
+    <string name="note">Catatan</string>
+    <string name="save">Simpan</string>
+    <string name="empty_task">Belum ada tugas</string>
+    <string name="detail_task">Detail Tugas</string>
+    <string name="delete">Hapus Tugas</string>
+    <string name="share">Bagikan Tugas</string>
+    <string name="about">Tentang</string>
+</resources>
