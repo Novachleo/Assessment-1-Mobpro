@@ -116,10 +116,9 @@ fun HomeScreen(
                             .padding(8.dp)
                             .fillMaxWidth()
                             .clickable {
-                                val index = taskList.indexOf(task)
-                                if (index != -1) {
-                                    taskList[index] = task.copy(isDone = !task.isDone)
-                                }
+                                navController.navigate(
+                                    "detail/${task.title}/${task.note}/${task.priority}"
+                                )
                             },
                         colors = CardDefaults.cardColors(
                             containerColor =
